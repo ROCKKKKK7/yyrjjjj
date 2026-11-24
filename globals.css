@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme inline {
+    --font-title: var(--font-montserrat);
+    --font-mono: var(--font-plex-mono);
+    --color-brand: #0b5a91;
+    --color-brand-dark: #08486f;
+    --color-ink: #0a2540;
+    --color-page: #fce9ea;
+}
